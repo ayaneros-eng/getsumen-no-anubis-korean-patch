@@ -1,0 +1,19 @@
+# Game images and personal runtime data
+*.sfc
+*.smc
+*.rom
+*.bin
+*.zip
+*.7z
+*.srm
+*.sav
+*.mss
+*.state
+*.log
+roms/
+saves/
+screenshots/
+out/
+__pycache__/
+*.pyc
+.env

@@ -1,0 +1,247 @@
+{
+  "base_sha256": "8eecc2c6ca13ca3183cba819e048ca016b1a5aae25928f19ddf63ceb5a467ac2",
+  "fixed_sha256": "fdd3e6804d640041af4f654b58a3ee1038e2fe4c8a8e6c73bb45374e77a7d5a5",
+  "size": 4194304,
+  "checksum": "0xba92",
+  "replaced_sequences": 8941,
+  "potential_orphan_sequences": 374,
+  "all_period_syllables": 127,
+  "compound_glyphs": [
+    {
+      "source_code": "E90A",
+      "compound_code": "EEF1",
+      "font_offset": "0xb7c40",
+      "uses": 18
+    },
+    {
+      "source_code": "E910",
+      "compound_code": "EEF0",
+      "font_offset": "0xb7c00",
+      "uses": 6667
+    },
+    {
+      "source_code": "E91A",
+      "compound_code": "EEDC",
+      "font_offset": "0xb7700",
+      "uses": 32
+    },
+    {
+      "source_code": "E921",
+      "compound_code": "EED3",
+      "font_offset": "0xb74c0",
+      "uses": 162
+    },
+    {
+      "source_code": "E922",
+      "compound_code": "EECD",
+      "font_offset": "0xb7340",
+      "uses": 60
+    },
+    {
+      "source_code": "E92A",
+      "compound_code": "EEC9",
+      "font_offset": "0xb7240",
+      "uses": 144
+    },
+    {
+      "source_code": "E936",
+      "compound_code": "EEC5",
+      "font_offset": "0xb7140",
+      "uses": 2
+    },
+    {
+      "source_code": "E93D",
+      "compound_code": "EEC3",
+      "font_offset": "0xb70c0",
+      "uses": 72
+    },
+    {
+      "source_code": "E93F",
+      "compound_code": "EEC0",
+      "font_offset": "0xb7000",
+      "uses": 54
+    },
+    {
+      "source_code": "E947",
+      "compound_code": "EEB8",
+      "font_offset": "0xb6e00",
+      "uses": 221
+    },
+    {
+      "source_code": "E953",
+      "compound_code": "EEB1",
+      "font_offset": "0xb6c40",
+      "uses": 18
+    },
+    {
+      "source_code": "E956",
+      "compound_code": "EE9D",
+      "font_offset": "0xb6740",
+      "uses": 21
+    },
+    {
+      "source_code": "E95E",
+      "compound_code": "EE95",
+      "font_offset": "0xb6540",
+      "uses": 284
+    },
+    {
+      "source_code": "E962",
+      "compound_code": "EE7C",
+      "font_offset": "0xb5f00",
+      "uses": 74
+    },
+    {
+      "source_code": "E965",
+      "compound_code": "EE79",
+      "font_offset": "0xb5e40",
+      "uses": 44
+    },
+    {
+      "source_code": "E970",
+      "compound_code": "EE72",
+      "font_offset": "0xb5c80",
+      "uses": 27
+    },
+    {
+      "source_code": "E977",
+      "compound_code": "EE71",
+      "font_offset": "0xb5c40",
+      "uses": 324
+    },
+    {
+      "source_code": "E97F",
+      "compound_code": "EE70",
+      "font_offset": "0xb5c00",
+      "uses": 80
+    },
+    {
+      "source_code": "E98F",
+      "compound_code": "EE68",
+      "font_offset": "0xb5a00",
+      "uses": 1
+    },
+    {
+      "source_code": "E9A7",
+      "compound_code": "EE65",
+      "font_offset": "0xb5940",
+      "uses": 76
+    },
+    {
+      "source_code": "E9AE",
+      "compound_code": "EE64",
+      "font_offset": "0xb5900",
+      "uses": 6
+    },
+    {
+      "source_code": "E9BC",
+      "compound_code": "EE62",
+      "font_offset": "0xb5880",
+      "uses": 169
+    },
+    {
+      "source_code": "E9C8",
+      "compound_code": "EE61",
+      "font_offset": "0xb5840",
+      "uses": 208
+    },
+    {
+      "source_code": "E9DA",
+      "compound_code": "EE5D",
+      "font_offset": "0xb5740",
+      "uses": 5
+    },
+    {
+      "source_code": "EA00",
+      "compound_code": "EE5C",
+      "font_offset": "0xb5700",
+      "uses": 30
+    },
+    {
+      "source_code": "EA1A",
+      "compound_code": "EE5B",
+      "font_offset": "0xb56c0",
+      "uses": 136
+    },
+    {
+      "source_code": "EA7B",
+      "compound_code": "EE5A",
+      "font_offset": "0xb5680",
+      "uses": 6
+    }
+  ],
+  "unused_slots_before": 76,
+  "text_offsets_unchanged": true,
+  "branch_offsets_unchanged": true,
+  "source_text_wording_unchanged": true,
+  "period_graphic": "2x2 Korean full stop in existing glyph margin; original period advance replaced by blank half-width cell",
+  "runtime_verified": false,
+  "choice_prompt_periods_to_commas": 14,
+  "choice_prompt_offsets": [
+    "0x30073c",
+    "0x301470",
+    "0x30257e",
+    "0x302e30",
+    "0x303223",
+    "0x3034a3",
+    "0x304d2e",
+    "0x3052ac",
+    "0x305db5",
+    "0x308df6",
+    "0x308e75",
+    "0x30e7af",
+    "0x30fb91",
+    "0x3105aa"
+  ],
+  "duplicate_terminal_periods_removed": 48,
+  "duplicate_period_offsets": [
+    "0x304fc2",
+    "0x30d1e2",
+    "0x310be3",
+    "0x310cec",
+    "0x3117b5",
+    "0x311dc1",
+    "0x3134b2",
+    "0x313734",
+    "0x3138c7",
+    "0x313d7c",
+    "0x3362fc",
+    "0x33e39e",
+    "0x33fb30",
+    "0x33fcf9",
+    "0x3477b3",
+    "0x34a581",
+    "0x34abf9",
+    "0x34bb74",
+    "0x34c281",
+    "0x34ea76",
+    "0x354537",
+    "0x3559e5",
+    "0x35635a",
+    "0x3578e4",
+    "0x357988",
+    "0x357b6e",
+    "0x35e757",
+    "0x35fb0f",
+    "0x3603b5",
+    "0x360404",
+    "0x360cbc",
+    "0x360f7d",
+    "0x360fb7",
+    "0x36117b",
+    "0x36130f",
+    "0x361b84",
+    "0x361c27",
+    "0x361cd5",
+    "0x3620a5",
+    "0x36214f",
+    "0x362336",
+    "0x3623e8",
+    "0x36d874",
+    "0x36f5b8",
+    "0x34b381",
+    "0x34bc4f",
+    "0x36f693",
+    "0x350e1f"
+  ]
+}

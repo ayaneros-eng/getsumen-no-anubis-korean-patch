@@ -1,0 +1,76 @@
+{
+  "release": "v1.10-qa2",
+  "rom_included": false,
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 83,
+      "sha256": "7fdbd756c55d2d9f8c0a5fb1c1ba2a41869ec9d4aa5816dfa9d96e3383b9dcc9"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 162,
+      "sha256": "ff5ee8bd1cf00f3bba566962cfc64b431d277528418c7c052c04a8d7d1bd68c8"
+    },
+    {
+      "file": "Anubis_KR_refined_from_JP.ips",
+      "bytes": 731497,
+      "sha256": "e71ecb07b33a041f414c678261f060626b8ee769b773fd3c3a993ff9b1a593ea"
+    },
+    {
+      "file": "Anubis_refined_from_punctuation_stage3.ips",
+      "bytes": 113,
+      "sha256": "017b1a22d6c8aea584f1fe560510490d7e336e730ed2f5006dfb4f2e8ef82d3c"
+    },
+    {
+      "file": "Anubis_refined_from_v1.10.ips",
+      "bytes": 73899,
+      "sha256": "b120a8766cb2a82fad515d612e9725aa996d7349d691a1e5d73018e2285a5b94"
+    },
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 475,
+      "sha256": "5165b91dc852d4c0ee41e9b56d4f0d2138d5db414394ebad961400572cf31205"
+    },
+    {
+      "file": "QA.md",
+      "bytes": 2101,
+      "sha256": "ba558d6d3043117b2cf1aa432c8a3d2f25b32a2f6d150707573d4685a5d225c6"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4616,
+      "sha256": "1ae8b89248b4523e8e55e85b4bf7aaac511d5777f7bcd8175b8082a3ae521eea"
+    },
+    {
+      "file": "apply_patch.cmd",
+      "bytes": 337,
+      "sha256": "f48b8c5454cbe14e39c1e4920e332df04bcd7c1467d39ae71b6a7fb364a1e51a"
+    },
+    {
+      "file": "apply_patch.ps1",
+      "bytes": 2829,
+      "sha256": "ebddb36c8f2a2ac5d8afa3bd7bd95c30372922f1d34f66b2561e3d837859a099"
+    },
+    {
+      "file": "build_refined.py",
+      "bytes": 6639,
+      "sha256": "b20ed2791fa4266c3422a0f4d8be2aaa9cb8d95bfbb3df5f1270e2fdfbf966f7"
+    },
+    {
+      "file": "patch_manifest.json",
+      "bytes": 1337,
+      "sha256": "55a2c20ac856749acca1d58245ef16d93c62eaeffebe97f8dff43d8c4556f51d"
+    },
+    {
+      "file": "punctuation_build.json",
+      "bytes": 5083,
+      "sha256": "1e72b567799f5de0f17c7d18059c0ab6357d9c2f3f40089fe447967d4f64e5a1"
+    },
+    {
+      "file": "verify_refined.py",
+      "bytes": 3427,
+      "sha256": "cb03fd42f05c026da93c4704a96581e8f8fc71c28ceac4005e7865df9c15cdf1"
+    }
+  ]
+}

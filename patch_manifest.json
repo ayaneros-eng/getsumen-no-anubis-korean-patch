@@ -1,0 +1,30 @@
+{
+  "target_sha256": "fdd3e6804d640041af4f654b58a3ee1038e2fe4c8a8e6c73bb45374e77a7d5a5",
+  "target_size": 4194304,
+  "patches": [
+    {
+      "file": "Anubis_KR_refined_from_JP.ips",
+      "source_sha256": "4187f17b8095d510bc207a7ba36aeb011556be6885a42dc48704af3128e5166c",
+      "patch_sha256": "e71ecb07b33a041f414c678261f060626b8ee769b773fd3c3a993ff9b1a593ea",
+      "patch_bytes": 731497,
+      "target_sha256": "fdd3e6804d640041af4f654b58a3ee1038e2fe4c8a8e6c73bb45374e77a7d5a5",
+      "rebuild_byte_identical": true
+    },
+    {
+      "file": "Anubis_refined_from_v1.10.ips",
+      "source_sha256": "8eecc2c6ca13ca3183cba819e048ca016b1a5aae25928f19ddf63ceb5a467ac2",
+      "patch_sha256": "b120a8766cb2a82fad515d612e9725aa996d7349d691a1e5d73018e2285a5b94",
+      "patch_bytes": 73899,
+      "target_sha256": "fdd3e6804d640041af4f654b58a3ee1038e2fe4c8a8e6c73bb45374e77a7d5a5",
+      "rebuild_byte_identical": true
+    },
+    {
+      "file": "Anubis_refined_from_punctuation_stage3.ips",
+      "source_sha256": "2a1269dcc1caa37ed51dae4c02f671bbeab8d51cf8622f6d297875b8e2c33893",
+      "patch_sha256": "017b1a22d6c8aea584f1fe560510490d7e336e730ed2f5006dfb4f2e8ef82d3c",
+      "patch_bytes": 113,
+      "target_sha256": "fdd3e6804d640041af4f654b58a3ee1038e2fe4c8a8e6c73bb45374e77a7d5a5",
+      "rebuild_byte_identical": true
+    }
+  ]
+}

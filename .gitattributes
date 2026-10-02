@@ -1,0 +1,3 @@
+# Preserve the exact bytes verified in package_manifest.json.
+* -text
+*.ips binary
